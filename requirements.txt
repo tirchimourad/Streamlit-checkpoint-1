@@ -2,10 +2,3 @@ streamlit
 pandas
 numpy
 joblib
-model.pkl
-scaler.pkl
-num_cols.pkl
-cat_cols.pkl
-encoded_columns.pkl
-fill_values.pkl
-mrg_mapping.pkl
